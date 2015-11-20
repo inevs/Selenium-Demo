@@ -1,4 +1,4 @@
-package atm;
+package demo;
 
 public class Account {
 }
